@@ -1,1 +1,1 @@
-# Main webpage of dotrinox.me
+# Main webpage of dotrinox.net
